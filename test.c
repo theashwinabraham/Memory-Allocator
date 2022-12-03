@@ -1,6 +1,10 @@
+/*
+ * AUTHOR: ASHWIN ABRAHAM
+*/
 #include <stdio.h>
 #include "Memory.h"
 #include <unistd.h>
+// #include <stdlib.h>
 
 int *buff = NULL;
 int calc_size = 0;
